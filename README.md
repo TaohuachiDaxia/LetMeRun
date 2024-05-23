@@ -1,6 +1,5 @@
-# LetMeRun
- a program to help you simplify your life
-LetMeRun 软件功能介绍
+
+# LetMeRun 软件功能介绍
 
 ## 软件功能介绍
 
@@ -53,3 +52,4 @@ LetMeRun 软件功能介绍
 
 - 当您在使用本软件时，无论是发现了bug或者因使用不便而产生了改进建议和想法，都欢迎您向作者提供反馈。作者联系方式：(mailto:taohuchi@icloud.com).
 - 对于本软件的升级信息，您可以通过访问GitHub进行查询或者通过电子邮件联系作者.
+  
